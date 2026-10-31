@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**maguakeji/maguakeji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🫀 GitHub Pulse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-pulse-mu.vercel.app/u/maguakeji">
+  <img alt="GitHub Pulse" src="https://github-pulse-mu.vercel.app/u/maguakeji?theme=paper" width="100%">
+</picture>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maguakeji/maguakeji/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maguakeji/maguakeji/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/maguakeji/maguakeji/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
